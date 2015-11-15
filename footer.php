@@ -11,10 +11,11 @@
  */
 global $childDir;
 ?>
-                <div data-role="footer">
-                        <h4>Page Footer</h4>
-                </div><!-- /footer -->
-        </div><!-- /page -->
-        <?php wp_footer(); ?>
-    </body>
+        <div data-role="footer">
+                <h4>Page Footer</h4>
+        </div><!-- /footer -->
+    </div><!-- /page -->
+    <?php wp_footer(); ?>
+</body>
 </html>
+<!-- Last Line of Code -->

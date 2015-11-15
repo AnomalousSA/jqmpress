@@ -12,7 +12,7 @@ global $childDir;
 $childDir = dirname(get_bloginfo('stylesheet_url'));
 ?><!DOCTYPE html>
 <!-- Jqmpress -->
-<!-- http://www.anomalous.co.za/bootpresswp -->
+<!-- http://www.anomalous.co.za/jqmpress -->
 <html <?php language_attributes(); ?>>
 <head>
     <meta charset="<?php bloginfo('charset'); ?>"/>

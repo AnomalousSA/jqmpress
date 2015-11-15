@@ -16,7 +16,6 @@ get_header(); ?>
             <h1><?php the_title();?></h1>
             <p class="meta"><?php echo jqmpress_posted_on();?></p>
             <?php the_content();?>
-            <?php the_tags( '<p>Tags: ', ', ', '</p>'); ?>
             <?php endwhile;?>
             <?php comments_template(); ?>
 	</div><!-- /content -->

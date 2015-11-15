@@ -4,4 +4,6 @@
 /* http://www.anomalous.co.za */
 /* 05 October 2015 */
 
-
+body.admin-bar {
+    position:relative;
+}
